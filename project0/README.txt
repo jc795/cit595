@@ -1,0 +1,1 @@
+I'm hoping to learn about operating systems and ideally gain some knowledge in C++ as well. Mastering the use of Git for both school and work is crucial since collaboration with classmates and coworkers is common. Setting up my GitHub account and Docker was a smooth experience, thanks to the clear and comprehensive instructions provided in the homework assignments.
